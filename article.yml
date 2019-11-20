@@ -1,0 +1,7 @@
+
+server:
+spring:
+  application:
+    name: article
+  profiles:
+    active: dev
